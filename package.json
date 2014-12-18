@@ -1,20 +1,24 @@
 {
   "name": "fincalc",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Helper to perform proper basic arithmetic operations with monetary values in JavaScript, or else two decimal precision arithmetic in a floating point scenario",
   "main": "fincalc.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pensierinmusica/fincalc"
+    "url": "https://github.com/pensierinmusica/fincalc.git"
   },
   "keywords": [
-    "['financial'",
-    "'finance'",
-    "'money'",
-    "'calculation'",
-    "'floating'",
-    "'decimal']"
+    "financial",
+    "finance",
+    "money",
+    "calculation",
+    "floating",
+    "decimal"
   ],
   "author": "Alessandro Zanardi",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pensierinmusica/fincalc/issues"
+  },
+  "homepage": "https://github.com/pensierinmusica/fincalc"
 }
