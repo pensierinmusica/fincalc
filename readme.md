@@ -4,8 +4,6 @@
 
 Fincalc is a helper to perform **proper basic arithmetic operations with monetary values in JavaScript**, or else two decimal precision arithmetic in a [floating point scenario](http://stackoverflow.com/questions/2876536/precise-financial-calculation-in-javascript-what-are-the-gotchas). It comes as a [**Bower**](http://bower.io) and [**npm**](http://npmjs.org) module that can be respectively imported in your front-end scripts for the **browser**, or in **NodeJS**.
 
-***
-
 ## Install
 
 ##### Back-end
@@ -39,8 +37,6 @@ Try this in your JavaScript console:
 
 `fin.mul(2.18, 100)` returns `218`
 
-***
-
 ## API
 Fincalc methods accept numbers (or string representation of them) as input, and returns a single number rounded up to two decimal precision (i.e. to the money cent).
 
@@ -58,6 +54,9 @@ Fincalc methods accept numbers (or string representation of them) as input, and 
 
 ##### Round
 `fin.round(num)`
+
+##### Percentual variation
+`fin.pervar(a, b)`
 
 ***
 

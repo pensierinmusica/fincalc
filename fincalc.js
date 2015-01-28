@@ -15,6 +15,9 @@ var fin = {
   },
   round: function (num) {
     return Math.round(num * 100) / 100;
+  },
+  pervar: function (a, b) {
+    return fin.round(((b / a) - 1) * 100);
   }
 };
 
