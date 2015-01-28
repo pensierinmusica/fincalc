@@ -1,6 +1,6 @@
 {
   "name": "fincalc",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Helper to perform proper basic arithmetic operations with monetary values in JavaScript, or else two decimal precision arithmetic in a floating point scenario",
   "main": "fincalc.js",
   "repository": {
