@@ -1,5 +1,9 @@
 # Fincalc
 
+[![Travis](https://img.shields.io/travis/pensierinmusica/fincalc.svg)](https://www.npmjs.com/package/fincalc)
+[![npm](https://img.shields.io/npm/v/csvdata.svg)](https://www.npmjs.com/package/csvdata)
+[![David](https://img.shields.io/david/pensierinmusica/fincalc.svg)](https://www.npmjs.com/package/fincalc)
+
 ## Introduction
 
 Fincalc is a helper to perform **proper basic arithmetic operations with monetary values in JavaScript**, or else two decimal precision arithmetic in a [floating point scenario](http://stackoverflow.com/questions/2876536/precise-financial-calculation-in-javascript-what-are-the-gotchas). It also offers a utility to calculate the **percentual variation between two values**. It comes as a [**Bower**](http://bower.io) and [**npm**](http://npmjs.org) module that can be respectively imported in your front-end scripts for the **browser**, or in **NodeJS**.
