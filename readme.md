@@ -1,6 +1,6 @@
 # Fincalc
 
-[![Travis](https://img.shields.io/travis/pensierinmusica/fincalc.svg)](https://www.npmjs.com/package/fincalc)
+[![Travis](https://img.shields.io/travis/pensierinmusica/fincalc.svg)](https://travis-ci.org/pensierinmusica/fincalc)
 [![npm](https://img.shields.io/npm/v/csvdata.svg)](https://www.npmjs.com/package/csvdata)
 [![David](https://img.shields.io/david/pensierinmusica/fincalc.svg)](https://www.npmjs.com/package/fincalc)
 
