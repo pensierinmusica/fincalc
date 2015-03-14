@@ -2,7 +2,7 @@
   "name": "fincalc",
   "version": "1.1.1",
   "description": "Helper to perform proper basic arithmetic operations with monetary values in JavaScript, or else two decimal precision arithmetic in a floating point scenario",
-  "main": "fincalc.js",
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/pensierinmusica/fincalc.git"
