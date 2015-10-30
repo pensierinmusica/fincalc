@@ -2,7 +2,7 @@
 
 [![Travis](https://img.shields.io/travis/pensierinmusica/fincalc.svg)](https://travis-ci.org/pensierinmusica/fincalc)
 [![Coveralls](https://img.shields.io/coveralls/pensierinmusica/fincalc.svg)](https://coveralls.io/r/pensierinmusica/fincalc)
-[![npm](https://img.shields.io/npm/v/csvdata.svg)](https://www.npmjs.com/package/csvdata)
+[![npm](https://img.shields.io/npm/v/fincalc.svg)](https://www.npmjs.com/package/fincalc)
 [![David](https://img.shields.io/david/pensierinmusica/fincalc.svg)](https://www.npmjs.com/package/fincalc)
 
 ## Introduction
