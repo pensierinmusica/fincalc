@@ -9,4 +9,4 @@ fin.pervar = function (a, b) {
 };
 
 // Hack to use same file in npm and Bower
-!(typeof module === 'undefined') && !(typeof module.exports === 'undefined') && (module.exports = fin);
+typeof module !== 'undefined' && typeof module.exports !== 'undefined' && (module.exports = fin);
