@@ -2,7 +2,7 @@
 
 require('chai').should();
 
-const fin = require('../fincalc.js');
+const fin = require('../index.js');
 
 describe('fincalc', () => {
 

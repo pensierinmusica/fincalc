@@ -1,14 +1,11 @@
 {
   "env": {
-    "browser": true,
     "es6": true,
-    "jquery": true,
     "node": true,
     "mocha": true
   },
   "extends": "eslint:recommended",
   "parserOptions": {"sourceType": "module"},
-  "plugins": ["json"],
   "rules": {
     "indent": ["error", 2],
     "keyword-spacing": "error",
